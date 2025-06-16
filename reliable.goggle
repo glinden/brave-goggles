@@ -1,0 +1,31 @@
+! name: Reliable websites
+! description: Prioritizes domains with reliable information.
+! author: Greg Linden
+! public: false
+
+$boost=8,site=wikipedia.org
+$boost=6,site=wiktionary.org
+$boost=5,site=wikiquote.org
+$boost=5,site=propublica.org
+$boost=5,site=pewresearch.org
+$boost=5,site=mayoclinic.org
+$boost=5,site=python.org
+$boost=5,site=developer.mozilla.org
+$boost=5,site=apnews.com
+$boost=5,site=theguardian.com
+$boost=5,site=science.org
+$boost=5,site=clevelandclinic.org
+$boost=5,site=cbc.ca
+$boost=3,site=nih.gov
+$boost=3,site=npr.org
+$boost=3,site=medlineplus.gov
+$boost=3,site=pbs.org
+$boost=3,site=bbc.com
+$boost=3,site=bbc.co.uk
+$boost=3,site=arxiv.org
+$boost=3,site=docs.oracle.com
+$boost=2,site=gov.uk
+$boost=2,site=canada.ca
+$boost=2,site=wikitravel.org
+$boost=1,site=aws.amazon.com
+$boost=1,site=imdb.com
